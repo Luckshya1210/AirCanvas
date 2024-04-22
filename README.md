@@ -1,4 +1,4 @@
-# Interactive Hand Gesture Drawing Application
+# AirCanvas
 
 ## Introduction
 
