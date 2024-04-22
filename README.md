@@ -4,7 +4,7 @@
 
 This project implements an interactive hand gesture drawing application using computer vision techniques. The application allows users to draw on a canvas using hand gestures captured by a webcam. It leverages libraries such as OpenCV, NumPy, and Mediapipe for image processing, numerical computations, and hand tracking, respectively.
 
-## technologies Used
+## Technologies Used
 Computer Vision , Python , MediaPipe, OpenCV
 
 
